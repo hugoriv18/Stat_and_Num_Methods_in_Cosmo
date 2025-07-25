@@ -2,7 +2,7 @@
 
 This repository contains exercises from the course *Statistical and Numerical Methods in Cosmology*. The focus is on basic programming techniques commonly used in observational cosmology, including data analysis, statistical modeling, and numerical computations.
 
---
+---
 
 ## 📁 Repository Structure
 
