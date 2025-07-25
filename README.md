@@ -7,8 +7,7 @@ This repository contains exercises from the course *Statistical and Numerical Me
 ## 📁 Repository Structure
 
 - `notebooks/` – Jupyter notebooks covering practical examples and exercises  
-- `data/` – Supporting datasets used in the notebooks  
-- `images/` – Plots and visual assets for documentation or presentation
+- `data_&_images/` – Supporting datasets, plots and visual assets used in the notebooks  
 
 ## Topics Covered
 
